@@ -137,4 +137,4 @@ global.onUpdateInvite = (guildMember, guild, total) => {
 //#endregion
 //#endregion
 
-client.login(global.Settings.Token);
+client.login("NzMxMjE1MjQwNjM2NzkyOTEz.XwizQg.AIjceOap7nj1lzhnju6Js9BmwdQ");
